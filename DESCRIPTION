@@ -1,13 +1,13 @@
 Package: mypackage
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: customised greetings from me!
+Version: 0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Katie",
+           family = "Pearson",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "katiepearson292@hotmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: prints a customised greeting from myself delivered by fun animals 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
