@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # mypackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/Katie1996/mypackage/workflows/R-CMD-check/badge.svg)](https://github.com/Katie1996/mypackage/actions)
 <!-- badges: end -->
 
 The goal of mypackage is to print a message
